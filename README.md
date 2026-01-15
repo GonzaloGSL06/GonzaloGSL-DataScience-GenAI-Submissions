@@ -17,21 +17,21 @@ Este repositorio contiene todas las tareas, notebooks y materiales de estudio de
     └── assignment_1/                      # Data and Feature Engineering
 ```
 
-## Contenido por Sesión
+## Contenido por Tema
 
-### Session 2: Data Engineering & Analysis
+### Data Engineering & Analysis
 - Joining DataFrames
 - Calculated Fields, Indexing and Subsetting
 - Transforms and Concatenation
 - Exploratory Data Analysis
 
-### Session 4: Machine Learning Fundamentals
+### Machine Learning Fundamentals
 - Decision Trees
 
-### Session 5: Ensemble Methods
+### Ensemble Methods
 - Random Forest and Gradient Boosted Decision Trees
 
-### Session 6: Deep Learning & Production ML
+### Deep Learning & Production ML
 - Logistic Regression in PyTorch
 - Machine Learning in Practice
 
