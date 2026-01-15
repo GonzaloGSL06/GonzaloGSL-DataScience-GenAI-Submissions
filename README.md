@@ -20,20 +20,20 @@ Este repositorio contiene todas las tareas, notebooks y materiales de estudio de
 ## Contenido por Sesión
 
 ### Session 2: Data Engineering & Analysis
-- **2_02** - Joining DataFrames
-- **2_03** - Calculated Fields, Indexing and Subsetting
-- **2_04** - Transforms and Concatenation
-- **2_05** - Exploratory Data Analysis
+- Joining DataFrames
+- Calculated Fields, Indexing and Subsetting
+- Transforms and Concatenation
+- Exploratory Data Analysis
 
 ### Session 4: Machine Learning Fundamentals
-- **4_01** - Decision Trees
+- Decision Trees
 
 ### Session 5: Ensemble Methods
-- **5_01** - Random Forest and Gradient Boosted Decision Trees
+- Random Forest and Gradient Boosted Decision Trees
 
 ### Session 6: Deep Learning & Production ML
-- **6_01** - Logistic Regression in PyTorch
-- **6_03** - Machine Learning in Practice
+- Logistic Regression in PyTorch
+- Machine Learning in Practice
 
 ## Tareas Completadas
 
