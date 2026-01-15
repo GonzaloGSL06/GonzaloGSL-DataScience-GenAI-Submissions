@@ -6,15 +6,15 @@ Este repositorio contiene todas las tareas, notebooks y materiales de estudio de
 
 ```
 .
-├── lectures/           # PDFs de las sesiones teóricas
-├── seminars/           # PDFs de los seminarios prácticos
-├── notebooks/          # Notebooks de ejercicios organizados por sesión
-│   ├── session_2/     # Pandas, DataFrames y análisis de datos
-│   ├── session_4/     # Árboles de decisión
-│   ├── session_5/     # Random Forest y Gradient Boosting
-│   └── session_6/     # PyTorch y Machine Learning en producción
-└── assignments/        # Tareas y proyectos completados
-    └── assignment_1/  # Data and Feature Engineering
+├── lectures/                               # PDFs de las sesiones teóricas
+├── seminars/                               # PDFs de los seminarios prácticos
+├── notebooks/                              # Notebooks de ejercicios organizados por tema
+│   ├── Data_Engineering_and_Analysis/     # Pandas, DataFrames y análisis de datos
+│   ├── Machine_Learning_Fundamentals/     # Árboles de decisión
+│   ├── Ensemble_Methods/                  # Random Forest y Gradient Boosting
+│   └── Deep_Learning_and_Production_ML/   # PyTorch y Machine Learning en producción
+└── assignments/                            # Tareas y proyectos completados
+    └── assignment_1/                      # Data and Feature Engineering
 ```
 
 ## Contenido por Sesión
